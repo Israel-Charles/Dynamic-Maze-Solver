@@ -1,4 +1,4 @@
-# Dynamic Maze Solver
+# GUI Dynamic Maze Solver
 Dynamic Maze Solver is a Java-based graphical application that demonstrates maze-solving techniques using a backtracking algorithm. This project visualizes the process of solving a maze in real-time, showcasing pathfinding, backtracking, and teleportation mechanics through portals.
 
 ### Demo > https://codepad.site/pad/a49untl5
